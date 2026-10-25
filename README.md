@@ -1,5 +1,7 @@
 # Java Backend Lab
 
+> 见证天才的成长
+
 这是十周 Java 后端基础路线的独立学习仓库，不依赖 Spring Boot。
 
 ## 第一次打开
